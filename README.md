@@ -21,8 +21,11 @@ Tapping on any item in the list opens the corresponding saved note, allowing for
 
 **Note Management**
 
-Update Notes: Modify your notes as needed by tapping the 'Save' button, conveniently placed at the bottom left of the screen.
-Delete Functionality: Remove unwanted notes with ease using the 'Delete' button, located at the bottom right, ensuring your note collection stays relevant and organized.
+**Update Notes:**
+Modify your notes as needed by tapping the 'Save' button, conveniently placed at the bottom left of the screen.
+
+**Delete Functionality:**
+Remove unwanted notes with ease using the 'Delete' button, located at the bottom right, ensuring your note collection stays relevant and organized.
 
 **Data Storage and Integrity**
 
