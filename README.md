@@ -1,5 +1,7 @@
 MemoMingle
+
 Overview
+
 MemoMingle is an intuitive and user-friendly application designed for efficient note-taking and organization. It offers a seamless experience for users to create, update, and manage their notes with ease.
 
 Features
